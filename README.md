@@ -8,29 +8,28 @@ Smart Contact Keeper is a user-friendly desktop application built with **Python'
 
 All contact data is automatically stored in a local text file (`contacts.txt`), so user information is preserved even after the application is closed.
 
+
+# Features
+
+-  Add new contacts with name, phone, and email
+-  View all saved contacts in a popup list
+-  Edit existing contact details
+-  Delete contacts by name
+-  Automatically saves data locally
+-  Opens in a clean, separate window interface
+-  Lightweight and easy to run (no database required)
+
 ---
 
-## 🚀 Features
-
-- ✅ Add new contacts with name, phone, and email
-- 📜 View all saved contacts in a popup list
-- ✏️ Edit existing contact details
-- 🗑️ Delete contacts by name
-- 💾 Automatically saves data locally
-- 🪟 Opens in a clean, separate window interface
-- 💻 Lightweight and easy to run (no database required)
-
----
-
-## 🛠️ Technologies Used
+#  Technologies Used
 
 - Python 3
 - Tkinter (for GUI)
 - File Handling (for data storage)
 
----
+--
 
-## 📂 How to Run
+# How to Run
 
 1. Make sure Python 3 is installed.
 2. Save the script as `contact_manager_gui.py`.
